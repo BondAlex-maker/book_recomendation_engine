@@ -92,6 +92,14 @@ Recommendation is based on user rating similarity (cosine distance).
 
 Demonstrates data cleaning, filtering, and machine learning for recommendation systems.
 
+How to Run
+
+Open the notebook in Google Colab.
+
+Run all cells sequentially.
+
+No local environment setup required (Colab includes TensorFlow 2.x).
+
 👤 Author
 
 BondAlex-maker
